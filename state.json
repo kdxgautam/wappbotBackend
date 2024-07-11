@@ -1,0 +1,151 @@
+{"state":[
+    {
+        "value": "NA",
+        "text": "Select Your State"
+    },
+    {
+        "value": "U01",
+        "text": "Andaman & Nicobar Islands"
+    },
+    {
+        "value": "S01",
+        "text": "Andhra Pradesh"
+    },
+    {
+        "value": "S02",
+        "text": "Arunachal Pradesh"
+    },
+    {
+        "value": "S03",
+        "text": "Assam"
+    },
+    {
+        "value": "S04",
+        "text": "Bihar"
+    },
+    {
+        "value": "U02",
+        "text": "Chandigarh"
+    },
+    {
+        "value": "S26",
+        "text": "Chhattisgarh"
+    },
+    {
+        "value": "U03",
+        "text": "Dadra & Nagar Haveli and Daman & Diu"
+    },
+    {
+        "value": "S05",
+        "text": "Goa"
+    },
+    {
+        "value": "S06",
+        "text": "Gujarat"
+    },
+    {
+        "value": "S07",
+        "text": "Haryana"
+    },
+    {
+        "value": "S08",
+        "text": "Himachal Pradesh"
+    },
+    {
+        "value": "U08",
+        "text": "Jammu and Kashmir"
+    },
+    {
+        "value": "S27",
+        "text": "Jharkhand"
+    },
+    {
+        "value": "S10",
+        "text": "Karnataka"
+    },
+    {
+        "value": "S11",
+        "text": "Kerala"
+    },
+    {
+        "value": "U09",
+        "text": "Ladakh"
+    },
+    {
+        "value": "U06",
+        "text": "Lakshadweep"
+    },
+    {
+        "value": "S12",
+        "text": "Madhya Pradesh"
+    },
+    {
+        "value": "S13",
+        "text": "Maharashtra"
+    },
+    {
+        "value": "S14",
+        "text": "Manipur"
+    },
+    {
+        "value": "S15",
+        "text": "Meghalaya"
+    },
+    {
+        "value": "S16",
+        "text": "Mizoram"
+    },
+    {
+        "value": "S17",
+        "text": "Nagaland"
+    },
+    {
+        "value": "U05",
+        "text": "NCT OF Delhi"
+    },
+    {
+        "value": "S18",
+        "text": "Odisha"
+    },
+    {
+        "value": "U07",
+        "text": "Puducherry"
+    },
+    {
+        "value": "S19",
+        "text": "Punjab"
+    },
+    {
+        "value": "S20",
+        "text": "Rajasthan"
+    },
+    {
+        "value": "S21",
+        "text": "Sikkim"
+    },
+    {
+        "value": "S22",
+        "text": "Tamil Nadu"
+    },
+    {
+        "value": "S29",
+        "text": "Telangana"
+    },
+    {
+        "value": "S23",
+        "text": "Tripura"
+    },
+    {
+        "value": "S24",
+        "text": "Uttar Pradesh"
+    },
+    {
+        "value": "S28",
+        "text": "Uttarakhand"
+    },
+    {
+        "value": "S25",
+        "text": "West Bengal"
+    }
+]
+}
