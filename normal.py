@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 
 from twocaptcha import TwoCaptcha
 
-api_key="34c4bc29a7d7f813933968b6576d93b0"
+api_key=""
 
 
 
